@@ -8,10 +8,10 @@
     <project name="SM6225-Motorola/device_motorola_sm6225-common" path="device/motorola/sm6225-common" remote="github" revision="A15"/>
 
     <!-- vendor -->
-    <project name="TheMuppets/proprietary_vendor_motorola_devon" path="vendor/motorola/devon" remote="github" revision="lineage-22.1"/>
-    <project name="TheMuppets/proprietary_vendor_motorola_hawao" path="vendor/motorola/hawao" remote="github" revision="lineage-22.1"/>
-    <project name="TheMuppets/proprietary_vendor_motorola_rhode" path="vendor/motorola/rhode" remote="github" revision="lineage-22.1"/>
-    <project name="TheMuppets/proprietary_vendor_motorola_sm6225-common" path="vendor/motorola/sm6225-common" remote="github" revision="lineage-22.1"/>
+    <project name="TheMuppets/proprietary_vendor_motorola_devon" path="vendor/motorola/devon" remote="github" revision="lineage-22.2"/>
+    <project name="TheMuppets/proprietary_vendor_motorola_hawao" path="vendor/motorola/hawao" remote="github" revision="lineage-22.2"/>
+    <project name="TheMuppets/proprietary_vendor_motorola_rhode" path="vendor/motorola/rhode" remote="github" revision="lineage-22.2"/>
+    <project name="TheMuppets/proprietary_vendor_motorola_sm6225-common" path="vendor/motorola/sm6225-common" remote="github" revision="lineage-22.2"/>
     
     <!-- kernel -->
     <project name="SM6225-Motorola/DanceKernel" path="kernel/motorola/sm6225" remote="github" revision="main"/>
