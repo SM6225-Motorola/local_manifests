@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="github" fetch="https://github.com/" />
-    <remote name="github" fetch="https://gitlab.com/" />
+    <remote name="gitlab" fetch="https://gitlab.com/" />
 
     <!-- Device Tree -->
     <project name="SM6225-Motorola/device_motorola_devon" path="device/motorola/devon" remote="github" revision="A15"/>
